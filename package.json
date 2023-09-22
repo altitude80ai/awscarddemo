@@ -1,0 +1,10 @@
+{
+    "name": "awsdemo",
+    "version": "0.5.0",
+    "scripts": {
+      "start": "npm run dev"
+    },
+    "dependencies": {
+      "migrate": "git+https://github.com/pdhoward/aidemov2"
+    }
+  }

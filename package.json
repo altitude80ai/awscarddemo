@@ -6,6 +6,6 @@
       "dev": "next dev"
     },
     "dependencies": {
-      "migrate": "git+https://github.com/pdhoward/aidemov2"
+      "migrate": "git+https://github.com/pdhoward/migrateai"
     }
   }

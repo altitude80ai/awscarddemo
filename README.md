@@ -1,6 +1,14 @@
 
 ## Altitude80 - AI Meets Modern
 
+NOTE - in order for this repo to be handled in the ai web container
+
+1. a package.json has been added which imports nextjs app with ai functions
+2. a post install bash script is added to copy the migrate app from node_modules to root
+3. add a .gitignore to ignore active changes in node_modules
+
+
+
 ### CardDemo -- Mainframe CardDemo Application
 
 - [CardDemo -- Mainframe CardDemo Application](#carddemo----mainframe-card-demo-application)

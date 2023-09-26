@@ -6,6 +6,6 @@
       "dev": "next dev"
     },
     "dependencies": {
-      "migrate": "git+https://github.com/pdhoward/migrateai"
+      "migrate": "migrateai"
     }
   }

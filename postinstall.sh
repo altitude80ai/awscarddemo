@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Copy app from node_modules to root
-cp -R node_modules/migrate/* ./
+cp -R node_modules/migrateai/* ./
 
 # Commands below not needed because Stackblitz handles transitive dependencies
 

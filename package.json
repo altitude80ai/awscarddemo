@@ -6,6 +6,6 @@
       "dev": "next dev"
     },
     "dependencies": {
-      "migrate": "migrateai"
+      "migrateai": "*"
     }
   }
